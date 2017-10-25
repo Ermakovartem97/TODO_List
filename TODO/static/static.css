@@ -1,0 +1,44 @@
+.Name{
+    padding-top: 10%;
+    color: blue;
+    font-size: 400%;
+    font-family: Lobster;
+    text-align: center;
+}
+
+.title {
+    color: blue;
+    font-size: 150%;
+    font-family: Lobster;
+}
+
+.new_task{
+    background:url(new_task.png);
+    overflow: hidden;
+    background-size: 100%;
+    color: brown;
+    margin-top: 50%;
+    padding: 25%;
+    padding-top: 25%;
+}
+
+.bg {
+    background:url(bg.png) no-repeat center center fixed;
+    background-size: cover;
+}
+
+.task2 {
+    background-color: aqua;
+    color: brown;
+    padding-left: 10%;
+    margin-left: 0%;
+    margin-right: 0%;
+}
+
+.jumbotron {
+    background:url(task.png) no-repeat;
+    overflow: hidden;
+    background-size: 100%;
+    padding-bottom: 15%;
+
+}
